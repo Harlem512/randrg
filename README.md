@@ -18,10 +18,6 @@
 
 ## To Run
 
-Head to the releases on the right and download the latest randrg.exe file and run it, or build from source.
-
-## To Build
-
 You need [Python](https://www.python.org/) and [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/). Download ```randrg.py``` and run it with ```py randrg.py``` or similar.
 
 
